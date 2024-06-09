@@ -5,7 +5,7 @@ This project built with HTML, CSS, and JavaScript. Users can search for a city o
 
 ## Live Demo
 
-You can view a live demo of the project [here](https://github.com/AlGohry/weather_app.git).
+You can view a Live Demo of the project [here](https://algohry.github.io/weather_app/).
 
 ## Features
 
