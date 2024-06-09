@@ -1,4 +1,4 @@
-# Weather App with real API
+# Weather App with real API ☁️
 
 A weather app dashboard offers a unified display of weather data using a real API.
 This project built with HTML, CSS, and JavaScript. Users can search for a city or use their current location.
